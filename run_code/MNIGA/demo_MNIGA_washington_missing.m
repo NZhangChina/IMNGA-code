@@ -15,7 +15,7 @@ Y = Y_missing07;
 %% Preprocessing and parameter setting
 max_iter_out = 50;
 paras_space = [10^-4 10^-3 10^-2 10^-1 10^0 10^1 10^2 10^3 10^4];
-lambda1 = paras_space(5); lambda2 = paras_space(5); lambda3 = paras_space(9);
+lambda1 = paras_space(4); lambda2 = paras_space(5); lambda3 = paras_space(9);
 alpha = 1;
 %% 
 num_view = size(X,2);
@@ -100,7 +100,7 @@ end
 % results1_sum = [];
 % results1_sum(:,:,:) = sum(results1_add,1);
 % for ii=1:5
-%     for jj=1:ize(result_imcan1_paras2,3)
+%     for jj=1:size(result_imcan1_paras2,3)
 %         for kk=1:9
 %             if results1_sum(ii,jj,kk)==max(max(max(max(max(results1_sum)))))
 %                 [ii,jj,kk]
