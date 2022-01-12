@@ -1,7 +1,7 @@
 
 -------------------------- generate the  incomplete multiview dataset --------------------------- 
 1. Open folder "generate_dataset". 
-2. Download the dataset from the Internet.  (Cornell {http://lig-membres.imag.fr/grimal/data.html}, Washington {http://lig-membres.imag.fr/grimal/data.html}, 3 Sources {http://erdos.ucd.ie/datasets/3sources}, BBCSport {htmlhttp://erdos.ucd.ie/datasets/bbc.html}, and Caltech7 {https://drive.google.com/drive/folders/1O_3YmthAZGiq1ZPSdE74R7Nwos2PmnHH})
+2. Download the dataset from the Internet.  (Cornell {http://lig-membres.imag.fr/grimal/data.html}, Washington {http://lig-membres.imag.fr/grimal/data.html}, 3 Sources {http://erdos.ucd.ie/datasets/3sources.html}, BBCSport {http://erdos.ucd.ie/datasets/bbc.html}, and Caltech7 {https://drive.google.com/drive/folders/1O_3YmthAZGiq1ZPSdE74R7Nwos2PmnHH})
 3. Process these data to get an incomplete multiview data set. We give the processing method on the BBCSport (demo_bbcsport_4views.m) data sets.
 
 ------------------------------------------ run demo --------------------------------------------- 
