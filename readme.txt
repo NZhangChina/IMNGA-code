@@ -7,3 +7,6 @@
 ------------------------------------------ run demo --------------------------------------------- 
 1. Open folder "run_code/IMNGA". 
 2. Run "demo_MNIGA_washington_missing.m"
+
+-------------cite this--------------------
+S. Sun and N. Zhang, "Incomplete Multiview Nonnegative Representation Learning With Graph Completion and Adaptive Neighbors," in IEEE Transactions on Neural Networks and Learning Systems, 2022, doi: 10.1109/TNNLS.2022.3201562.
